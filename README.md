@@ -1,1 +1,1 @@
-Local data pipeline that extracts raw retail data, transforms it to relevant categories and then loads it into an output.
+Classic ETL pipeline that uses python and pandas to clean raw retail data, transform the cleaned data using custom functions and loads it to an output document. It can be customized to load to database. 
